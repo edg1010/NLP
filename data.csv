@@ -1,41 +1,12 @@
-gmat,gpa,work  experience,admitted
-780,4,3,1
-750,3.9,4,1
-690,3.3,3,0
-710,3.7,5,1
-680,3.9,4,0
-730,3.7,6,1
-690,2.3,1,0
-720,3.3,4,1
-740,3.3,5,1
-690,1.7,1,0
-610,2.7,3,0
-690,3.7,5,1
-710,3.7,6,1
-680,3.3,4,0
-770,3.3,3,1
-610,3,1,0
-580,2.7,4,0
-650,3.7,6,1
-540,2.7,2,0
-590,2.3,3,0
-620,3.3,2,1
-600,2,1,0
-550,2.3,4,0
-550,2.7,1,0
-570,3,2,0
-670,3.3,6,1
-660,3.7,4,1
-580,2.3,2,0
-650,3.7,6,1
-660,3.3,5,1
-640,3,1,0
-620,2.7,2,0
-660,4,4,1
-660,3.3,6,1
-680,3.3,5,1
-650,2.3,1,0
-670,2.7,2,0
-580,3.3,1,0
-590,1.7,4,0
-690,3.7,5,1
+<s> Saya suka dengan makanan laut </s>
+<s> Saya suka dengan minuman yang manis </s>
+<s> Kemarin saya makan makanan laut </s>
+<s> Hari ini saya makan makanan khas Sunda </s>
+<s> Besok saya berencana makan makanan khas Betawi </s>
+<s> Kemarin saya makan roti </s>
+<s> Hari ini saya makan Pizza </s>
+<s> Besok saya berencana makan Burger </s>
+<s> Hari ini saya minum teh tawar </s>
+<s> Kemarin saya minum Coca Cola </s>
+<s> Besok saya berencana minum kopi </s>
+<s> Lusa saya berencana minum teh manis </s>
